@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Life Cycle Demo</string>
+    <string name="label_next">Next</string>
+    <string name="label_previous">Previous</string>
+</resources>
